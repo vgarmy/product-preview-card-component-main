@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-<imr src="screenshot.png" alt="screenshot" />
+<img src="screenshot.png" alt="screenshot" />
 
 ### Links
 
