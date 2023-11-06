@@ -60,7 +60,6 @@ body {
     display: flex;
     flex-direction: row;
     width: 600px;
-    height: 500px;
     border-radius: 10px;
     background: var(--white-color);
 }
@@ -116,7 +115,7 @@ body {
 button{
     background: var(--dark-cyan);
     width: 100%;
-    border-radius: 1rem;
+    border-radius: 0.5rem;
     color: var(--white-color);
     display: flex;
     align-items: center;
