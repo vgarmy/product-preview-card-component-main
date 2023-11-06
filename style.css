@@ -129,6 +129,10 @@ button{
     border: none;
 }
 
+button:hover{
+    background: var(--very-dark-blue);
+}
+
 button img{
     margin-right: 1rem;
 }
